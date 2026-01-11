@@ -1,1 +1,1 @@
-[# taskify-info](https://taskify-dokumentacja.vercel.app/)
+[# About the App](https://taskify-dokumentacja.vercel.app/)
